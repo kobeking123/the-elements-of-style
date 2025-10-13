@@ -28,10 +28,6 @@ _Public domain text by William Strunk Jr._
 - [IV. A Few Matters Of Form](#iv-a-few-matters-of-form)
 - [V. Words And Expressions Commonly Misused](#v-words-and-expressions-commonly-misused)
 - [VI. Spelling](#vi-spelling)
-- [VII. Exercises On Chapters II And III](#vii-exercises-on-chapters-ii-and-iii)
-  - [Exercise I. Punctuate](#exercise-i-punctuate)
-  - [Exercise II. Explain the difference in meaning](#exercise-ii-explain-the-difference-in-meaning)
-  - [Exercise III. Explain and correct the errors in punctuation](#exercise-iii-explain-and-correct-the-errors-in-punctuation)
 
 ## I. Introductory
 
@@ -1111,37 +1107,3 @@ Note that a single consonant (other than *v*) preceded by a stressed short vowel
 Write *to-day*, *to-night*, *to-morrow* (but not *together*) with a hyphen.
 
 Write *any one*, *every one*, *some one*, *some time* (except in the sense of *formerly*) as two words.
-
-## VII. Exercises On Chapters II And III
-
-### Exercise I. Punctuate
-
-1\. In 1788 the King's advisers warned him that the nation was facing bankruptcy therefore he summoned a body called the States-General believing that it would authorize him to levy new taxes. The people of France however were suffering from burdensome taxation oppressive social injustice and acute scarcity of food and their representatives refused to consider projects of taxation until social and economic reforms should be granted. The King who did not realize the gravity of the situation tried to overawe them collecting soldiers in and about Versailles where the sessions were being held. The people of Paris seeing the danger organized militia companies to defend their representatives. In order to supply themselves with arms they attacked the Invalides and the Bastille which contained the principal supplies of arms and munitions in Paris.
-
-2\. On his first continental tour begun in 1809 Byron visited Portugal Spain Albania Greece and Turkey. Of this tour he composed a poetical journal Childe Harold's Pilgrimage in which he ascribed his experiences and reflections not to himself but to a fictitious character Childe Harold described as a melancholy young nobleman prematurely familiar with evil sated with pleasures and embittered against humanity. The substantial merits of the work however lay not in this shadowy and somewhat theatrical figure but in Byron's spirited descriptions of wild or picturesque scenes and in his eloquent championing of Spain and Greece against their oppressors. On his return to England in 1811 he was persuaded rather against his own judgment into allowing the work to be published. Its success was almost unprecedented in his own words he awoke and found himself famous.
-
-### Exercise II. Explain the difference in meaning
-
-3\. ‘God save thee, ancyent Marinere!
-
-‘From the fiends that plague thee thus—
-
-Lyrical Ballads, 1798.
-
-‘God save thee, ancient Mariner!
-
-From the fiends, that plague thee thus!—
-
-Lyrical Ballads, 1800.
-
-### Exercise III. Explain and correct the errors in punctuation
-
-4\. This course is intended for Freshmen, who in the opinion of the Department are not qualified for military drill.
-
-5\. A restaurant, not a cafeteria where good meals are served at popular prices.—*Advt.*
-
-6\. The poets of The Nation, for all their intensity of patriotic feeling, followed the English rather than the Celtic tradition, their work has a political rather than a literary value and bears little upon the development of modern Irish verse.
-
-7\. We were in one of the strangest places imaginable. A long and narrow passage overhung on either side by a stupendous barrier of black and threatening rocks.
-
-8\. Only a few years ago after a snow storm in the passes not far north of Jerusalem no less than twenty-six Russian pilgrims perished amidst the snow. One cannot help thinking largely because they made little attempt to save themselves.
