@@ -25,21 +25,11 @@ _Public domain text by William Strunk Jr._
   - [Rule 16. Keep related words together.](#rule-16-keep-related-words-together)
   - [Rule 17. In summaries, keep to one tense.](#rule-17-in-summaries-keep-to-one-tense)
   - [Rule 18. Place the emphatic words of a sentence at the end.](#rule-18-place-the-emphatic-words-of-a-sentence-at-the-end)
-- [IV. A Few Matters Of Form](#iv-a-few-matters-of-form)
 - [V. Words And Expressions Commonly Misused](#v-words-and-expressions-commonly-misused)
-- [VI. Spelling](#vi-spelling)
 
 ## I. Introductory
 
-This book aims to give in brief space the principal requirements of plain English style. It aims to lighten the task of instructor and student by concentrating attention (in Chapters II and III) on a few essentials, the rules of usage and principles of composition most commonly violated. In accordance with this plan it lays down three rules for the use of the comma, instead of a score or more, and one for the use of the semicolon, in the belief that these four rules provide for all the internal punctuation that is required by nineteen sentences out of twenty. Similarly, it gives in Chapter III only those principles of the paragraph and the sentence which are of the widest application. The book thus covers only a small portion of the field of English style. The experience of its writer has been that once past the essentials, students profit most by individual instruction based on the problems of their own work, and that each instructor has his own body of theory, which he may prefer to that offered by any textbook.
-
-The numbers of the sections may be used as references in correcting manuscript.
-
-The writer's colleagues in the Department of English in Cornell University have greatly helped him in the preparation of his _manuscript._ Mr. George McLane Wood has kindly consented to the inclusion under Rule 10 of some material from his Suggestions to Authors.
-
-The following books are recommended for reference or further study: in connection with Chapters II and IV, F. Howard Collins, Author and Printer (Henry Frowde); Chicago University Press, Manual of Style; T. L. De Vinne, Correct Composition (The Century Company); Horace Hart, Rules for Compositors and Printers (Oxford University Press); George McLane Wood, Extracts from the Style-Book of the Government Printing Office (United States Geological Survey); in connection with Chapters III and V, The King's English (Oxford University Press); Sir Arthur Quiller-Couch, The Art of Writing (Putnam), especially the chapter, Interlude on Jargon; George McLane Wood, Suggestions to Authors (United States Geological Survey); John Lesslie Hall, English Usage (Scott, Foresman and Co.); James P. Kelley, Workmanship in Words (Little, Brown and Co.). In these will be found full discussions of many points here briefly treated and an abundant store of illustrations to supplement those given in this book.
-
-It is an old observation that the best writers sometimes disregard the rules of rhetoric. When they do so, however, the reader will usually find in the sentence some compensating merit, attained at the cost of the violation. Unless he is certain of doing as well, he will probably do best to follow the rules. After he has learned, by their guidance, to write plain English adequate for everyday uses, let him look, for the secrets of style, to the study of the masters of literature.
+This handbook summarizes the essentials of plain English style. It focuses on the rules of usage and principles of composition most often broken, offering a compact alternative to exhaustive manuals. Master the guidance here, then look to the best authors for finer points of style.
 
 ## II. Elementary Rules Of Usage
 
@@ -655,98 +645,6 @@ Through the middle of the valley flowed a winding stream.
 
 The principle that the proper place for what is to be made most prominent is the end applies equally to the words of a sentence, to the sentences of a paragraph, and to the paragraphs of a composition.
 
-## IV. A Few Matters Of Form
-
-**Headings.** Leave a blank line, or its equivalent in space, after the title or heading of a manuscript. On succeeding pages, if using ruled paper, begin on the first line.
-
-**Numerals.** Do not spell out dates or other serial numbers. Write them in figures or in Roman notation, as may be appropriate.
-
-August 9, 1918 (9 August 1918)
-
-Rule 3
-
-Chapter XII
-
-352nd Infantry
-
-**Parentheses.** A sentence containing an expression in parenthesis is punctuated, outside of the marks of parenthesis, exactly as if the expression in parenthesis were absent. The expression within is punctuated as if it stood by itself, except that the final stop is omitted unless it is a question mark or an exclamation point.
-
-I went to his house yesterday (my third attempt to see him), but he had left town.
-
-He declares (and why should we doubt his good faith?) that he is now certain of success.
-
-(When a wholly detached expression or sentence is parenthesized, the final stop comes before the last mark of parenthesis.)
-
-**Quotations.** Formal quotations, cited as documentary evidence, are introduced by a colon and enclosed in quotation marks.
-
-The provision of the Constitution is: “No tax or duty shall be laid on articles exported from any state.”
-
-Quotations grammatically in apposition or the direct objects of verbs are preceded by a comma and enclosed in quotation marks.
-
-I recall the maxim of La Rochefoucauld, “Gratitude is a lively sense of benefits to come.”
-
-Aristotle says, “Art is an imitation of nature.”
-
-Quotations of an entire line, or more, of verse, are begun on a fresh line and centered, but need not be enclosed in quotation marks.
-
-Wordsworth's enthusiasm for the Revolution was at first unbounded:
-
-Bliss was it in that dawn to be alive,
-
-But to be young was very heaven!
-
-Quotations introduced by *that* are regarded as in indirect discourse and not enclosed in quotation marks.
-
-Keats declares that beauty is truth, truth beauty.
-
-Proverbial expressions and familiar phrases of literary origin require no quotation marks.
-
-These are the times that try men's souls.
-
-He lives far from the madding crowd.
-
-The same is true of colloquialisms and slang.
-
-**References.** In scholarly work requiring exact references, abbreviate titles that occur frequently, giving the full forms in an alphabetical list at the end. As a general practice, give the references in parenthesis or in footnotes, not in the body of the sentence. Omit the words *act*, *scene*, *line*, *book*, *volume*, *page*, except when referring by only one of them. Punctuate as indicated below.
-
-| Original | Revision |
-| --- | --- |
-| In the second scene of the third act | In III.ii (still better, simply insert III.ii in parenthesis at the proper place in the sentence) |
-
-After the killing of Polonius, Hamlet is placed under guard (IV.ii. 14).
-
-2 Samuel i:17–27
-
-Othello II.iii. 264–267, III.iii. 155–161.
-
-**Syllabication.** If there is room at the end of a line for one or more syllables of a word, but not for the whole word, divide the word, unless this involves cutting off only a single letter, or cutting off only two letters of a long word. No hard and fast rule for all words can be laid down. The principles most frequently applicable are:
-
-\(a\) Divide the word according to its formation:
-
-know-ledge (not knowl-edge); Shake-speare (not Shakes-peare); de-scribe (not des-cribe); atmo-sphere (not atmos-phere);
-
-\(b\) Divide “on the vowel:”
-
-edi-ble (not ed-ible); propo-sition; ordi-nary; espe-cial; reli-gious; oppo-nents; regu-lar; classi-fi-ca-tion (three divisions allowable); deco-rative; presi-dent;
-
-\(c\) Divide between double letters, unless they come at the end of the simple form of the word:
-
-Apen-nines; Cincin-nati; refer-ring; but tell-ing.
-
-\(d\) Do not divide before final *-ed* if the *e* is silent:
-
-treat-ed (but not roam-ed or nam-ed).
-
-The treatment of consonants in combination is best shown from examples:
-
-for-tune; pic-ture; sin-gle; presump-tuous; illus-tration; sub-stan-tial (either division); indus-try; instruc-tion; sug-ges-tion; incen-diary.
-
-The student will do well to examine the syllable-division in a number of pages of any carefully printed book.
-
-**Titles.** For the titles of literary works, scholarly usage prefers italics with capitalized initials. The usage of editors and publishers varies, some using italics with capitalized initials, others using Roman with capitalized initials and with or without quotation marks. Use italics (indicated in manuscript by underscoring), except in writing for a periodical that follows a different practice. Omit initial *A* or *The* from titles when you place the possessive before them.
-
-The Iliad; the Odyssey; As You Like It; To a Skylark; The Newcomes; A Tale of Two Cities; Dickens's Tale of Two Cities.
-
 ## V. Words And Expressions Commonly Misused
 
 (Some of the forms here listed, as *like I did*, are downright bad English; others, as the split infinitive, have their defenders, but are in such general disfavor that it is at least inadvisable to use them; still others, as *case*, *factor*, *feature*, *interesting*, *one of the most*, are good in their place, but are constantly obtruding themselves into places where they have no right to be. If the writer will make it his purpose from the beginning to express accurately his own individual thought, and will refuse to be satisfied with a ready-made formula that saves him the trouble of doing so, this last set of expressions will cause him little trouble. But if he finds that in a moment of inadvertence he has used one of them, his proper course will probably be not to patch up the sentence by substituting one word or set of words for another, but to recast it completely, as illustrated in a number of examples below and in others under Rules 12 and 13.)
@@ -1095,15 +993,3 @@ To express habitual or repeated action, the past tense, without *would*, is usua
 | Original | Revision |
 | --- | --- |
 | Once a year he would visit the old mansion. | Once a year he visited the old mansion. |
-
-## VI. Spelling
-
-The spelling of English words is not fixed and invariable, nor does it depend on any other authority than general agreement. At the present day there is practically unanimous agreement as to the spelling of most words. In the list below, for example, *rime* for *rhyme* is the only allowable variation; all the other forms are co-extensive with the English language. At any given moment, however, a relatively small number of words may be spelled in more than one way. Gradually, as a rule, one of these forms comes to be generally preferred, and the less customary form comes to look obsolete and is discarded. From time to time new forms, mostly simplifications, are introduced by innovators, and either win their place or die of neglect.
-
-The practical objection to unaccepted and over-simplified spellings is the disfavor with which they are received by the reader. They distract his attention and exhaust his patience. He reads the form *though* automatically, without thought of its needless complexity; he reads the abbreviation *tho* and mentally supplies the missing letters, at the cost of a fraction of his attention. The writer has defeated his own purpose.
-
-Note that a single consonant (other than *v*) preceded by a stressed short vowel is doubled before *-ed* and *-ing*: *planned*, *letting*, *beginning*. (*Coming* is an exception.)
-
-Write *to-day*, *to-night*, *to-morrow* (but not *together*) with a hyphen.
-
-Write *any one*, *every one*, *some one*, *some time* (except in the sense of *formerly*) as two words.
