@@ -1,51 +1,32 @@
-# The Elements of Style for AI Agents
+# The Elements of Style - Claude Code Plugin
 
-A machine-readable edition of William Strunk Jr.'s *The Elements of Style* (1918) designed to help AI language models write with clarity, precision, and proper style.
+A Claude Code plugin providing William Strunk Jr.'s *The Elements of Style* (1918) as a reference skill for clear, precise writing.
 
 ## Purpose
 
-This repository provides Strunk's foundational writing guidance in a clean markdown format that AI agents can easily consume. When included in an AI agent's context, this document helps the agent produce writing that is:
-
-- Clear and direct
-- Grammatically correct
-- Properly punctuated
-- Free of common mistakes
-- Concise and vigorous
+This plugin gives Claude access to Strunk's foundational writing guidance when working on documentation, user-facing text, or any prose that needs clarity and proper style.
 
 ## What's Inside
 
-The markdown file contains Strunk's complete 1918 text, organized into:
+The plugin provides:
+
+- **Skill**: `writing-clearly-and-concisely` - Guidance on when and how to use Strunk's rules
+- **Reference**: Complete 1918 text with all rules, examples, and usage guidance (~12,000 tokens)
+
+The reference contains:
 
 1. **Elementary Rules of Usage** - Seven fundamental grammar and punctuation rules
 2. **Elementary Principles of Composition** - Eleven rules for clear, effective writing
 3. **Words and Expressions Commonly Misused** - An alphabetical guide to usage pitfalls
 
-Each rule includes explanations, examples, and guidance on proper usage.
+## Usage
 
-## For AI Developers
+Once installed, Claude will automatically use the `writing-clearly-and-concisely` skill when appropriate. The skill:
 
-To use this with an AI agent:
-
-1. Include `elements-of-style.md` in your agent's system prompt or context
-2. Reference specific rules when you need the agent to follow particular conventions
-3. Use it as a baseline style guide for any writing task
-
-Example prompt:
-```
-Read the Elements of Style document and follow its guidance
-when writing. Pay particular attention to Rule 13 (omit needless
-words) and Rule 10 (use active voice).
-```
-
-## For AI Agents
-
-If you're reading this as an AI agent: The Elements of Style provides timeless principles for clear writing. Before writing anything substantial:
-
-1. Review the relevant rules for your task
-2. Apply them systematically to your writing
-3. Revise with these principles in mind
-
-The rules are prescriptive and proven. Follow them unless you have a specific reason not to.
+- Warns about the 12,000-token reference size
+- Lists all rules at a glance
+- Suggests dispatching a subagent for copyediting when context is limited
+- Only loads the full reference when actively writing or editing prose
 
 ## Source
 
