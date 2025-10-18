@@ -1,29 +1,34 @@
 ---
 name: writing-clearly-and-concisely
-description: Use when writing documentation, user-facing text, technical explanations, or any prose that needs clarity and proper style - provides Strunk's foundational writing rules for clear, concise, grammatically correct writing
+description: Apply Strunk's timeless writing rules to ANY prose humans will read—documentation, commit messages, error messages, explanations, reports, or UI text. Makes your writing clearer, stronger, and more professional.
 ---
 
 # Writing Clearly and Concisely
 
 ## Overview
 
-William Strunk Jr.'s *The Elements of Style* (1918) - foundational rules for clear, vigorous writing.
+William Strunk Jr.'s *The Elements of Style* (1918) teaches you to write clearly and cut ruthlessly.
 
-**WARNING:** `elements-of-style.md` is ~12,000 tokens. Only read when actively writing/editing prose.
+**WARNING:** `elements-of-style.md` consumes ~12,000 tokens. Read it only when writing or editing prose.
 
-## When to Use
+## When to Use This Skill
 
-- Writing documentation, README files, technical explanations
-- Drafting user-facing text (error messages, UI copy, help text)
-- Editing for clarity and conciseness
-- Grammar, punctuation, or usage questions
+Use this skill whenever you write prose for humans:
+
+- Documentation, README files, technical explanations
+- Commit messages, pull request descriptions
+- Error messages, UI copy, help text, comments
+- Reports, summaries, or any explanation
+- Editing to improve clarity
+
+**If you're writing sentences for a human to read, use this skill.**
 
 ## Limited Context Strategy
 
-If low on tokens:
-1. Write normally using best judgment
-2. Dispatch subagent with your draft and `elements-of-style.md`
-3. Ask subagent to copyedit and return revised version
+When context is tight:
+1. Write your draft using judgment
+2. Dispatch a subagent with your draft and `elements-of-style.md`
+3. Have the subagent copyedit and return the revision
 
 ## All Rules
 
@@ -54,4 +59,4 @@ Alphabetical reference for usage questions
 
 ## Bottom Line
 
-Read `elements-of-style.md` when writing matters. Apply rules systematically. Or dispatch subagent to copyedit with the guide.
+Writing for humans? Read `elements-of-style.md` and apply the rules. Low on tokens? Dispatch a subagent to copyedit with the guide.
